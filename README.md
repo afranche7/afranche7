@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Alexis Franche
+# Hi, I'm Alexis Franche
 
 Software Engineer with experience in full-stack development, cloud architecture, and DevOps practices.
 My passion lies in building scalable backend systems.
 
-## 💻 Technical Skills
+## Technical Skills
 - **Languages**: Kotlin, Python, Java, JavaScript, Go (in the process of learning it 🚀)
 - **Frontend**: Vue.js
 - **Backend**: Azure Functions
@@ -12,16 +12,13 @@ My passion lies in building scalable backend systems.
 - **DevOps**: Docker, Azure DevOps, CI/CD Pipelines
 - **Testing**: Unit Testing, Integration Testing (Cucumber/Gherkin)
 
-## 🔭 Experience
+## Experience
 - Lead development of SaaS applications 
 - Designed microservices architecture for scalable backend systems
 - Built real-time data processing systems
 - Implemented CI/CD pipelines for multiple environments
 
-## 🎓 Education
+##  Education
 - Bachelor of Software Engineering - McGill University
 - Pure and Applied Sciences - Champlain College
 
----
-
-*Always exploring new technologies and looking to collaborate on interesting projects!*
